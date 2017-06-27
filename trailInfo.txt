@@ -1,0 +1,321 @@
+Sisters Mirror Trailhead,Latitude :,44.03964431,Longitude :,-121.8275569
+Camp Sherman Campground,Latitude :,44.46325,Longitude :,-121.63906,Elevation :,2950
+Many Lakes Trailhead
+Lava Camp Lake Campground,Latitude :,44.26101,Longitude :,-121.78674,Elevation :,5300
+Lost Lake (South) Trail,Area/Length :,0.6 miles,Elevation :,7100 - 7440
+Devils Lake Campground,Latitude :,44.03336,Longitude :,-121.7667,Elevation :,5450
+Swampy Loop Trail,Area/Length :,0.8 miles,Elevation :,5900 - 5950
+Lost Lake Trail,Area/Length :,3.9 miles,Elevation :,6440 - 7400
+Crescent Lake Campground,Latitude :,43.50322,Longitude :,-121.97455,Elevation :,4850
+Rosary Lakes Trailhead,Latitude :,43.60449641,Longitude :,-121.998967
+Head of Jack Creek Trailhead
+Wickiup Plains Trailhead,Latitude :,44.03354,Longitude :,-121.76721
+Ray Atkeson Trailhead,Latitude :,44.01330,Longitude :,-121.73638
+Shirley Lake Trail,Area/Length :,1.5 miles,Elevation :,5600 - 6300
+Minto Lake Trail,Area/Length :,4.2 miles,Elevation :,4160 - 5200
+Green Lakes Trail,Area/Length :,5.6 miles,Elevation :,5450 - 6800
+Pacific Crest National Scenic Trail - Irish Mtn.,Area/Length :,33.5 miles,Elevation :,5100 - 6100
+Lemish Lake Trail,Area/Length :,5.0 miles,Elevation :,4950 - 5550
+Sink Creek Trail,Area/Length :,2.0 miles,Elevation :,5180 - 5420
+Maiden Lake Trail,Area/Length :,6.0 miles,Elevation :,5200 - 6000
+Crater Butte Trail,Area/Length :,13.7 miles,Elevation :,4850 - 6600
+Summit Lake Trail - Mt Jefferson,Area/Length :,10.7 miles,Elevation :,4900 - 5400
+Bessie Butte Trail,Area/Length :,1.0 miles,Elevation :,4300 - 4750
+South Fork Trail,Area/Length :,1.8 miles,Elevation :,5350 - 6050
+Hoffman Island Trail,Area/Length :,1.0 miles,Elevation :,5500 - 5600
+Paulina Falls Day Use Area,Latitude :,43.71039,Longitude :,-121.28317,Elevation :,6250
+Cabot Lake Trail,Area/Length :,15.1 miles,Elevation :,4550 - 6000
+Elk Lake Campground,Latitude :,43.81725,Longitude :,-121.8069,Elevation :,4900
+Blue Lagoon Trail,Area/Length :,0.6 miles
+Lava Cast Forest Trail,Area/Length :,0.9 miles,Elevation :,5750 - 5850
+Newberry Group Campground,Latitude :,43.70480,Longitude :,-121.25577,Elevation :,6400
+Edison - Lava Trail,Area/Length :,10.0 miles,Elevation :,4700 - 6000
+Summit Lake Trail,Area/Length :,10.9 miles,Elevation :,5500 - 6200
+Little Crater Trail,Area/Length :,1.5 miles,Elevation :,6330 - 6850
+Little Crater Day Use Site,Latitude :,43.70855,Longitude :,-121.24520
+Broken Top Trailhead,Latitude :,44.05449,Longitude :,-121.67397,Elevation :,7100
+Peter Skene Ogden Trailhead,Latitude :,43.72932981,Longitude :,-121.419303,Elevation :,4300
+Appaloosa Trail,Area/Length :,1.6 miles,Elevation :,5190 - 5400
+Cinder Hill Trailhead,Latitude :,43.73761517,Longitude :,-121.1999789
+Clover Meadow Trail,Area/Length :,3.3 miles,Elevation :,5200 - 5450
+Allen Springs Campground,Latitude :,44.52803,Longitude :,-121.62734,Elevation :,2750
+Parallel Trail,Area/Length :,2.0 miles,Elevation :,6450 - 7000
+Winopee Trailhead
+Osprey Point Trail,Area/Length :,0.8 miles,Elevation :,4450 - 4500
+Horse Lake Trail,Area/Length :,1.6 miles,Elevation :,4650 - 5300
+Wake Butte Trail,Area/Length :,0.3 miles,Elevation :,4400 - 4700
+Paulina Lake Campground,Latitude :,43.71203,Longitude :,-121.27622,Elevation :,6350
+East Lake Campground,Latitude :,43.71759,Longitude :,-121.20959,Elevation :,6400
+Mount Washington Wilderness: Deschutes
+Hortense Lake Trail,Elevation :,4180 - 4800
+Sugar Pine Ridge Trail,Area/Length :,6.7 miles,Elevation :,3200 - 5900
+Mirror Lakes Trail,Area/Length :,3.9 miles,Elevation :,5350 - 5950
+Round Lake Trail,Area/Length :,1.9 miles,Elevation :,4400 - 4880
+Deschutes NF-Bend/Sunriver/La Pine Area,Latitude :,43.91422,Longitude :,-121.46417
+Dry Creek Trail,Area/Length :,4.7 miles,Elevation :,4500 - 5200
+Lava Butte Interpretive Site,Latitude :,43.91822,Longitude :,-121.35648,Elevation :,5000
+Fuzztail Butte Trail,Area/Length :,0.5 miles,Elevation :,5435 - 5735
+Head of Metolius Trail,Area/Length :,0.2 miles,Elevation :,3000 - 3020
+Chush Falls Trail
+Pole Creek Trailhead,Latitude :,44.18747,Longitude :,-121.69990
+Corral Swamp Trail,Area/Length :,4.8 miles,Elevation :,4400 - 5150
+Paulina Falls Trail,Area/Length :,0.5 miles,Elevation :,6120 - 6280
+Brush Creek Trail,Area/Length :,4.5 miles,Elevation :,4400 - 6250
+Head of Jack Creek Trail,Area/Length :,0.3 miles,Elevation :,3200 - 3240
+Deschutes River Trail,Area/Length :,11.1 miles,Elevation :,3900 - 4200
+Little Crater Campground,Latitude :,43.70832,Longitude :,-121.24503,Elevation :,6350
+Silica Trail,Area/Length :,0.8 miles,Elevation :,6350 - 6365
+Six Lakes Trailhead
+Rockpile Lake Trail,Area/Length :,4.3 miles,Elevation :,4160 - 6250
+South Twin Lake Trail,Area/Length :,1.0 miles,Elevation :,4330 - 4335
+Teddy Lakes Trail,Area/Length :,0.5 miles,Elevation :,4850 - 5000
+Meadow Day Use Area,Latitude :,44.00156,Longitude :,-121.37965,Elevation :,3850
+Tam McArthur Trail #4078,Area/Length :,2.6 miles,Elevation :,6500 - 7700
+Blue Bay Campground,Latitude :,44.420021,Longitude :,-121.731895,Elevation :,3450
+Green Lakes/Soda Creek Trailhead,Latitude :,44.02955,Longitude :,-121.73551,Elevation :,5450
+Jefferson Lake Trail,Area/Length :,9.2 miles,Elevation :,3100 - 5300
+Smiling River Campground,Latitude :,44.47517,Longitude :,-121.63618,Elevation :,2900
+Jack Lake Trailhead,Latitude :,44.49316566,Longitude :,-121.794139,Elevation :,5150
+Round Meadow Trail,Area/Length :,3.0 miles,Elevation :,5050 - 5500
+Peter Skene Ogden National Scenic Trail,Area/Length :,9.5 miles,Elevation :,4300 - 6350
+Ray Atkeson Loop Trail,Area/Length :,4.2 miles,Elevation :,5400 - 5450
+Riverside Campground,Latitude :,44.44236,Longitude :,-121.63374,Elevation :,3000
+Entrada Loop Trail,Area/Length :,3.3 miles
+Whispering Pines Trail,Area/Length :,0.3 miles,Elevation :,4500 - 4500
+Found Lake Trail,Area/Length :,0.4 miles
+Elk Lake Trailhead,Latitude :,43.98381,Longitude :,-121.81136,Elevation :,4950
+Crater Rim Trail,Area/Length :,21.0 miles,Elevation :,6330 - 7600
+Sparks Lake Trailhead
+Skeleton Cave Trail,Area/Length :,0.7 miles,Elevation :,4200 - 4250
+Coyote Loop Trail,Area/Length :,12 miles,Elevation :,4000 - 5540
+Bridge Creek Trail,Area/Length :,6.3 miles,Elevation :,4950 - 6100
+Pacific Crest National Scenic Trail - Maiden Peak,Area/Length :,17.2 miles,Elevation :,5100 - 6500
+Lava Island Day Use Area,Latitude :,43.9867,Longitude :,-121.4003,Elevation :,3900
+Demaris Lake Trail,Area/Length :,0.8 miles,Elevation :,6250 - 6450
+Newberry Crater Trail,Area/Length :,8.7 miles,Elevation :,6350 - 7300
+Dutchman Sno-Park/Trailhead,Latitude :,43.99924,Longitude :,-121.66350,Elevation :,6350
+Tumalo Falls Day Use Area,Latitude :,44.03191,Longitude :,-121.56619,Elevation :,5000
+Deschutes NF-Fort Rock Area,Latitude :,43.734222,Longitude :,-121.208756
+370/4601 Junction Trailhead,Latitude :,44.05987,Longitude :,-121.59802,Elevation :,6250
+Windy Group Campground,Latitude :,43.46033,Longitude :,-122.03159,Elevation :,4850
+Oldenberg Lake Trail,Area/Length :,9.7 miles,Elevation :,4850 - 5950
+West Metolius River Trail,Area/Length :,6.0 miles,Elevation :,2700 - 2900
+Skyliner Trail,Area/Length :,3.5 miles
+Aspen Day Use Area,Latitude :,43.974709,Longitude :,-121.40687,Elevation :,4000
+Lily Lake Trail,Area/Length :,1.7 miles,Elevation :,5450 - 6800
+Camp Lake Trail,Area/Length :,5.0 miles,Elevation :,5750 - 6950
+River Loop Trail,Area/Length :,0.9 miles,Elevation :,3850 - 3900
+Fall River Campground,Latitude :,43.77311,Longitude :,-121.62064,Elevation :,4300
+Devils Lake Trail,Area/Length :,0.6 miles,Elevation :,5450 - 5500
+Tumalo Mountain Trail,Area/Length :,1.7 miles,Elevation :,6200 - 7700
+Park Meadow Trail,Area/Length :,6.3 miles,Elevation :,6050 - 6850
+Mount Bachelor View Trail,Area/Length :,0.2 miles
+Suttle Tie Trail,Area/Length :,5.0 miles,Elevation :,3330 - 3450
+Leconte Crater Trail,Area/Length :,0.9 miles
+Lava Butte Trail,Area/Length :,0.3 miles,Elevation :,4950 - 5000
+Boyd Cave Trail,Area/Length :,6.6 miles,Elevation :,4225 - 5250
+Deer Lake Trail,Area/Length :,2.3 miles,Elevation :,4550 - 4950
+Black Crater Trail,Area/Length :,3.8 miles,Elevation :,4900 - 7251
+Pole Creek Trail,Area/Length :,1.4 miles,Elevation :,5300 - 5900
+Slough Day Use Area,Latitude :,43.94476,Longitude :,-121.43289,Elevation :,4000
+Suttle Tie Trailhead
+370/380 Junction Trailhead,Latitude :,44.048659,Longitude :,-121.65459,Elevation :,6900
+Pine Rest Campground,Latitude :,44.48159,Longitude :,-121.63800,Elevation :,2900
+Chush Falls Trail,Area/Length :,0.9 miles,Elevation :,4800 - 5200
+Candle Creek Campground,Latitude :,44.57429,Longitude :,-121.61929,Elevation :,2600
+Trout Creek Tie Trail,Area/Length :,0.9 miles,Elevation :,5200 - 5350
+Devils Lake/South Sister Trailhead,Latitude :,44.03346,Longitude :,-121.76697,Elevation :,5500
+Paulina Peak Trailhead,Latitude :,43.71086,Longitude :,-121.275693,Elevation :,6550
+Pacific Crest National Scenic Trail - Mt. Thielson,Area/Length :,30.4 miles,Elevation :,5900 - 7560
+Quinn Creek Trail,Area/Length :,2.8 miles,Elevation :,4950 - 5200
+Gorge Campground,Latitude :,44.48491,Longitude :,-121.63832,Elevation :,2900
+Snell Lake Trail,Area/Length :,8.5 miles,Elevation :,5550 - 6200
+Lava Cast Forest Day Use Interpretive Site,Latitude :,43.81857,Longitude :,-121.29027,Elevation :,5750
+Three Sisters Wilderness: Deschutes
+Benham Falls East Day Use / Trailhead,Latitude :,43.9304199,Longitude :,-121.4126968
+Green Ridge Trail
+Lower Black Butte Trailhead
+Broken Top Trail,Area/Length :,4.9 miles,Elevation :,6200 - 6950
+Deschutes NF-Cascade Lakes Area,Latitude :,43.98636,Longitude :,-121.71889
+Paulina Peak Observation Site,Latitude :,43.68889,Longitude :,-121.25472,Elevation :,8000
+Horse Butte Trailhead,Latitude :,43.97504,Longitude :,-121.23207,Elevation :,4000
+Pacific Crest National Scenic Trail - Diamond Peak,Area/Length :,18.2 miles,Elevation :,5100 - 7200
+Mount Thielsen Wilderness: Deschutes,Elevation :,9,182 - 5,000
+Paulina Lakeshore Trail,Area/Length :,7.0 miles,Elevation :,6330 - 6560
+Snowshoe Lakes Trail,Area/Length :,3.0 miles,Elevation :,4750 - 5350
+Crater Ditch Trailhead,Latitude :,44.04647,Longitude :,-121.67544,Elevation :,6800
+Minto Pass Tie Trail,Area/Length :,0.4 miles,Elevation :,5150 - 5350
+Wickiup Plains Trail,Area/Length :,2.2 miles,Elevation :,5450 - 6150
+Maiden Peak Trail,Area/Length :,2.7 miles,Elevation :,6300 - 7800
+Lava Camp Lake Trail #4060,Elevation :,5190 feet - 5190 feet
+Senoj Lake Trail #14.1,Area/Length :,6.2 miles,Elevation :,4850 - 6100
+Butte Loops Trail,Area/Length :,23.0 miles,Elevation :,3240 - 4500
+Swampy Lakes Trail,Area/Length :,7.5 miles,Elevation :,5350 - 6100
+Benham Falls West Day Use / Trailhead,Latitude :,43.93904,Longitude :,-121.4140095,Elevation :,4150
+Dillon Falls Day Use Area,Latitude :,43.95761,Longitude :,-121.41771,Elevation :,4000
+Big Obsidian Flow Trailhead and Interpretive Site,Latitude :,43.70680,Longitude :,-121.23660,Elevation :,6400
+Wake Butte Trailhead
+Lucky Lake Trailhead,Latitude :,43.90327,Longitude :,-121.77692,Elevation :,4800 feet
+Paulina Peak Trail,Area/Length :,0.5 miles,Elevation :,7800 - 7984
+Clover - Lemish Tie Trail,Area/Length :,2.6 miles,Elevation :,5200 - 5300
+East Metolius River Trail,Area/Length :,10.0 miles,Elevation :,2750 - 3000
+Cinder Hill Campground,Latitude :,43.72854,Longitude :,-121.19535,Elevation :,6400
+Millican Crater Trail,Area/Length :,4.6 miles,Elevation :,4850 - 5850
+Two Lakes Trail,Area/Length :,1.5 miles,Elevation :,3620
+River View Point Trail,Area/Length :,0.2 miles
+Crater Butte Trailhead,Latitude :,43.54755,Longitude :,-121.9651,Elevation :,4800
+Winopee Tie Trail,Area/Length :,3.0 miles
+Little Three Creeks Trail,Area/Length :,1.1 miles,Elevation :,6400 - 6600
+Quinn Springs Trail,Area/Length :,0.5 miles,Elevation :,5190 - 5220
+Shut-In Trail,Area/Length :,1.9 miles,Elevation :,2200 - 2260
+North Matthieu Lake Trail,Area/Length :,1.3 miles,Elevation :,5320 - 5600
+Park Meadow Trailhead
+Sparks Lake Trail,Area/Length :,2.0 miles,Elevation :,5300 - 5500
+Bear Valley Trailhead
+Mount Jefferson Wilderness: Deschutes
+Lower Bridge Campground,Latitude :,44.55706,Longitude :,-121.62040,Elevation :,2700
+Meek Lake Trail,Area/Length :,1.0 miles,Elevation :,5500
+Pacific Crest National Scenic Trail - Cowhorn,Area/Length :,12.7,Elevation :,5600 - 7200
+Metolius-Windigo Trail #99,Area/Length :,120 miles,Elevation :,4600 - 6900
+Yoran Lake Trail,Area/Length :,5.3 miles,Elevation :,4800 - 6000
+Obsidian Flow Trail,Area/Length :,0.5 miles,Elevation :,6420 - 6560
+Moraine Lakes Trail,Area/Length :,3.8 miles,Elevation :,6050 - 6600
+Black Crater Trailhead,Latitude :,44.28528,Longitude :,-121.76642,Elevation :,Trailhead located at 4850 ft
+Irish & Taylor Lakes
+Lemish Lake Trailhead
+Whitefish Creek Trail,Area/Length :,14.3 miles,Elevation :,4800 - 5800
+Driftwood Campground,Latitude :,44.10305,Longitude :,-121.62604,Elevation :,6600
+Lower Canyon Creek Campground,Latitude :,44.50208,Longitude :,-121.64225,Elevation :,2900
+Three Creek Lake Campground,Latitude :,44.09549,Longitude :,-121.62251,Elevation :,6600
+Lava Lands Visitor Center,Latitude :,43.90993,Longitude :,-121.35616,Elevation :,4500
+Big Eddy Trailhead,Latitude :,43.97780,Longitude :,-121.41114,Elevation :,4000
+Scott Pass Trail,Area/Length :,3.3 miles,Elevation :,4900 - 6100
+Windy Lakes Trail,Area/Length :,5.7 miles,Elevation :,4680 - 6300
+Phil's Trailhead,Latitude :,44.04669,Longitude :,-121.38448,Elevation :,3900
+Osprey Point Trailhead,Latitude :,43.78240537,Longitude :,-121.8369486
+Charlton Lake Trail,Area/Length :,5.6 miles,Elevation :,5500 - 7100
+Many Lakes Trail,Area/Length :,7.2 miles,Elevation :,4900 - 5400
+Fall River Trailhead,Latitude :,43.7927,Longitude :,-121.58790,Elevation :,4300
+Lava Camp Lake Trailhead,Latitude :,44.26059,Longitude :,-121.78782,Elevation :,5190 - 5190
+South Sister Climber Trail,Area/Length :,4.8 miles,Elevation :,5500 - 10358
+Six Lakes Trail,Area/Length :,4.1 miles,Elevation :,4850 - 5850
+Tumalo Creek Climber Trail,Area/Length :,0.2 miles,Elevation :,3750 - 3800
+Skyliners Sno-Park/Trailhead,Latitude :,44.03201,Longitude :,-121.51488,Elevation :,4800
+Canyon Glacier Trail,Area/Length :,1.8 miles,Elevation :,5200 - 5500
+Black Butte Trail,Area/Length :,2.0 miles,Elevation :,4800 - 6440
+Winopee Lake Trail,Area/Length :,9.0 miles,Elevation :,4700 - 5200
+Newberry National Volcanic Monument - Deschutes NF,Latitude :,43.79885,Longitude :,-121.26984
+Ogden Group Campground,Latitude :,43.72948,Longitude :,-121.42137,Elevation :,4300
+Trail of the Molten Land,Area/Length :,0.5 miles,Elevation :,4500 - 4550
+Diamond Peak Wilderness: Deschutes
+Pacific Crest National Scenic Trail - Washington,Area/Length :,17.1 miles,Elevation :,4700 - 6100
+Twin Lakes Trail,Area/Length :,1.2 miles,Elevation :,4300 - 4350
+Allingham Campground,Latitude :,44.47128,Longitude :,-121.63785,Elevation :,2900
+Fall River Guard Station,Latitude :,43.76877,Longitude :,-121.63383
+Sisters Tie Trailhead
+Pacific Crest National Scenic Trail - Jefferson,Area/Length :,39.8 miles,Elevation :,4300 - 6900
+Tumalo Creek Trail,Area/Length :,2.2 miles,Elevation :,4800 - 5350
+Katsuk Pond Trail,Area/Length :,4.0 miles,Elevation :,5200 - 5500
+Tam McArthur Rim Trailhead,Latitude :,44.10089,Longitude :,-121.62239
+Tumalo Creek Trail (2),Area/Length :,4.0 miles,Elevation :,3750 - 4550
+Soda Creek Campground,Latitude :,44.0254,Longitude :,-121.72722,Elevation :,5450
+North Fork Trail,Area/Length :,3.7 miles,Elevation :,4950 - 6100
+Todd Trail,Area/Length :,2.5 miles,Elevation :,6200 - 6400
+Johnny Lake Trail,Area/Length :,0.5 miles,Elevation :,5200 - 5300
+Bench Mark Butte Trail,Area/Length :,4.0 miles
+Deschutes NF-Crescent Area,Latitude :,43.56646,Longitude :,-121.85487
+Boyd Cave Day Use Area,Latitude :,43.94148,Longitude :,-121.19727,Elevation :,3900
+Island Meadow Trail,Area/Length :,1.0 miles,Elevation :,4650 - 5650
+Sisters MBT Trail,Area/Length :,15.0 miles,Elevation :,3200 - 3800
+Scott Pass Trailhead
+Black Butte Trailhead,Latitude :,44.39524,Longitude :,-121.64820,Elevation :,Trailhead is at 5000 feet
+Trapper Creek Campground,Latitude :,43.58263,Longitude :,-122.04477,Elevation :,4800
+Green Ridge Lookout,Latitude :,44.53379,Longitude :,-121.60839
+Phil's Connect Trail,Area/Length :,1.1 miles,Elevation :,3880 - 3900
+Moore Creek Trail,Area/Length :,7.5 miles,Elevation :,4850 - 5450
+Sisters Tie Trail,Area/Length :,6.6 miles,Elevation :,3170 - 3240
+Suttle Lake Loop Trail,Area/Length :,3.2 miles,Elevation :,3450 - 3500
+Cabot Lake Trailhead
+Little Cultus Campground,Latitude :,43.80102,Longitude :,-121.86307,Elevation :,4800
+Peterson Ridge Trailhead
+Buttes Loop Trailhead
+Camp Sherman Fish Viewing Platform,Latitude :,44.46014,Longitude :,-121.64327,Elevation :,2950
+Fawn Lake Trail,Area/Length :,4.7 miles,Elevation :,4800 - 5700
+Pioneer Ford Campground,Latitude :,44.55067,Longitude :,-121.62222,Elevation :,2750
+Deschutes NF-Sisters-Metolius Area,Latitude :,44.46848,Longitude :,-121.64151
+Fall River Trail,Area/Length :,3.3 miles,Elevation :,4200 - 4350
+Pacific Crest National Scenic Trail - Three Sister,Area/Length :,25.1 miles,Elevation :,5300 - 6800
+Todd Lake Day Use Area/Trailhead,Latitude :,44.02380,Longitude :,-121.68279
+Millican Crater Trailhead
+Round Lake Trailhead
+Soda Creek Trail,Area/Length :,4.5 miles,Elevation :,5230 - 6000
+McKay Crossing Campground,Latitude :,43.7157,Longitude :,-121.3774,Elevation :,4750
+Fall River Trailhead,Latitude :,43.7927,Longitude :,-121.58790,Elevation :,4300
+Bridge Creek Trail,Area/Length :,6.3 miles,Elevation :,4950 - 6100
+Benham Falls West Day Use / Trailhead,Latitude :,43.93904,Longitude :,-121.4140095,Elevation :,4150
+Meadow Day Use Area,Latitude :,44.00156,Longitude :,-121.37965,Elevation :,3850
+Deschutes River Trail,Area/Length :,11.1 miles,Elevation :,3900 - 4200
+Devils Lake Campground,Latitude :,44.03336,Longitude :,-121.7667,Elevation :,5450
+McKay Crossing Campground,Latitude :,43.7157,Longitude :,-121.3774,Elevation :,4750
+Phil's Connect Trail,Area/Length :,1.1 miles,Elevation :,3880 - 3900
+Crater Ditch Trailhead,Latitude :,44.04647,Longitude :,-121.67544,Elevation :,6800
+Dillon Falls Day Use Area,Latitude :,43.95761,Longitude :,-121.41771,Elevation :,4000
+Green Lakes/Soda Creek Trailhead,Latitude :,44.02955,Longitude :,-121.73551,Elevation :,5450
+Entrada Loop Trail,Area/Length :,3.3 miles
+Broken Top Trail,Area/Length :,4.9 miles,Elevation :,6200 - 6950
+Edison - Lava Trail,Area/Length :,10.0 miles,Elevation :,4700 - 6000
+Tumalo Mountain Trail,Area/Length :,1.7 miles,Elevation :,6200 - 7700
+Clover Meadow Trail,Area/Length :,3.3 miles,Elevation :,5200 - 5450
+Slough Day Use Area,Latitude :,43.94476,Longitude :,-121.43289,Elevation :,4000
+Tumalo Creek Trail,Area/Length :,2.2 miles,Elevation :,4800 - 5350
+Many Lakes Trailhead
+Phil's Trailhead,Latitude :,44.04669,Longitude :,-121.38448,Elevation :,3900
+Fall River Trail,Area/Length :,3.3 miles,Elevation :,4200 - 4350
+Green Lakes Trail,Area/Length :,5.6 miles,Elevation :,5450 - 6800
+McKay Crossing Campground,Latitude :,43.7157,Longitude :,-121.3774,Elevation :,4750
+370/4601 Junction Trailhead,Latitude :,44.05987,Longitude :,-121.59802,Elevation :,6250
+Meadow Day Use Area,Latitude :,44.00156,Longitude :,-121.37965,Elevation :,3850
+Entrada Loop Trail,Area/Length :,3.3 miles
+Bridge Creek Trail,Area/Length :,6.3 miles,Elevation :,4950 - 6100
+Fall River Trailhead,Latitude :,43.7927,Longitude :,-121.58790,Elevation :,4300
+Aspen Day Use Area,Latitude :,43.974709,Longitude :,-121.40687,Elevation :,4000
+Big Eddy Trailhead,Latitude :,43.97780,Longitude :,-121.41114,Elevation :,4000
+River Loop Trail,Area/Length :,0.9 miles,Elevation :,3850 - 3900
+Tumalo Creek Trail (2),Area/Length :,4.0 miles,Elevation :,3750 - 4550
+Blue Bay Campground,Latitude :,44.420021,Longitude :,-121.731895,Elevation :,3450
+Skyliners Sno-Park/Trailhead,Latitude :,44.03201,Longitude :,-121.51488,Elevation :,4800
+Devils Lake/South Sister Trailhead,Latitude :,44.03346,Longitude :,-121.76697,Elevation :,5500
+Deschutes NF-Bend/Sunriver/La Pine Area,Latitude :,43.91422,Longitude :,-121.46417
+Tumalo Creek Trail,Area/Length :,2.2 miles,Elevation :,4800 - 5350
+Corral Swamp Trail,Area/Length :,4.8 miles,Elevation :,4400 - 5150
+Johnny Lake Trail,Area/Length :,0.5 miles,Elevation :,5200 - 5300
+Wake Butte Trail,Area/Length :,0.3 miles,Elevation :,4400 - 4700
+Pacific Crest National Scenic Trail - Maiden Peak,Area/Length :,17.2 miles,Elevation :,5100 - 6500
+Pacific Crest National Scenic Trail - Irish Mtn.,Area/Length :,33.5 miles,Elevation :,5100 - 6100
+Winopee Tie Trail,Area/Length :,3.0 miles
+Mirror Lakes Trail,Area/Length :,3.9 miles,Elevation :,5350 - 5950
+Round Meadow Trail,Area/Length :,3.0 miles,Elevation :,5050 - 5500
+Found Lake Trail,Area/Length :,0.4 miles
+Horse Lake Trail,Area/Length :,1.6 miles,Elevation :,4650 - 5300
+Soda Creek Campground,Latitude :,44.0254,Longitude :,-121.72722,Elevation :,5450
+Sisters Mirror Trailhead,Latitude :,44.016506,Longitude :,-121.781752
+Winopee Trailhead
+Twin Lakes Trail,Area/Length :,1.2 miles,Elevation :,4300 - 4350
+South Sister Climber Trail,Area/Length :,4.8 miles,Elevation :,5500 - 10358
+Wickiup Plains Trail,Area/Length :,2.2 miles,Elevation :,5450 - 6150
+Osprey Point Trailhead,Latitude :,43.78177,Longitude :,-121.8395
+Lucky Lake Trailhead,Latitude :,43.90327,Longitude :,-121.77692,Elevation :,4800 feet
+Metolius-Windigo Trail #99,Area/Length :,120 miles,Elevation :,4600 - 6900
+Many Lakes Trailhead
+
+
+
+
+
+
+
+
+Deschutes River Trail,Area/Length :,11.1 miles,Elevation :,3900 - 4200
+Tumalo Creek Trail,Area/Length :,2.2 miles,Elevation :,4800 - 5350
+Fall River Trailhead,Latitude :,43.7927,Longitude :,-121.58790,Elevation :,4300
+Paulina Falls Trail,Area/Length :,0.5 miles,Elevation :,6120 - 6280
